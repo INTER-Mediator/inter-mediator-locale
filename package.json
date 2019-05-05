@@ -1,0 +1,25 @@
+{
+  "name": "inter-mediator-locale",
+  "version": "1.0.0",
+  "description": "The locale information of INTER-Mediator core.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-locale.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "locale"
+  ],
+  "dependencies": {
+  },
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-locale/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-locale#readme"
+}
