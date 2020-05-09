@@ -68,3 +68,6 @@ INTERMediatorLocale = {
   "D_FMT_SHORT": "%Y\/%m\/%d",
   "T_FMT_SHORT": "%H:%I"
 }
+
+// @@IM@@IgnoringRestOfFile
+module.exports = INTERMediatorLocale
