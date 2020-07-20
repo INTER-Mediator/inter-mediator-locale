@@ -1,28 +1,29 @@
 {
-  "name": "inter-mediator-locale",
-  "version": "1.0.3",
-  "description": "The locale information of INTER-Mediator core.",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "node_modules/jest/bin/jest.js locale.test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/INTER-Mediator/inter-mediator-locale.git"
-  },
-  "keywords": [
-    "INTER-Mediator",
-    "locale"
-  ],
-  "devDependencies": {
-    "jest": "*"
-  },
-  "dependencies": {},
-  "author": "Masayuki Nii",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/INTER-Mediator/inter-mediator-locale/issues"
-  },
-  "homepage": "https://github.com/INTER-Mediator/inter-mediator-locale#readme"
+    "name": "inter-mediator-locale",
+    "version": "1.0.4",
+    "description": "The locale information of INTER-Mediator core.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node_modules/jest/bin/jest.js locale.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/INTER-Mediator/inter-mediator-locale.git"
+    },
+    "keywords": [
+        "INTER-Mediator",
+        "locale"
+    ],
+    "devDependencies": {
+        "jest": "^26.1.0",
+        "lodash": ">=4.17.19"
+    },
+    "dependencies": {},
+    "author": "Masayuki Nii",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/INTER-Mediator/inter-mediator-locale/issues"
+    },
+    "homepage": "https://github.com/INTER-Mediator/inter-mediator-locale#readme"
 }
